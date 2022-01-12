@@ -1,0 +1,5 @@
+2022-01-09 01:02:39.949 [main] DEBUG com.revature.App - We've just greeted the user!
+2022-01-09 01:02:39.953 [main] INFO  com.revature.App - We've just greeted the user!
+2022-01-09 01:02:39.954 [main] WARN  com.revature.App - We've just greeted the user!
+2022-01-09 01:02:39.954 [main] ERROR com.revature.App - We've just greeted the user!
+2022-01-09 01:02:39.954 [main] FATAL com.revature.App - We've just greeted the user!
